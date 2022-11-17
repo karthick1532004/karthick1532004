@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @karthick1532004- 👀 I’m interested in ...
-- 🌱 I’m currently learning BE Engineering in TCE
+This files are the waste object detection using opencv and python.
+I have used teachables machine to create a machine learning model using cnn algorithm, I have then added the keras module in to the python file to detect the object.
 
 <!---
 karthick1532004/karthick1532004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
